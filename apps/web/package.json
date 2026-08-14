@@ -46,7 +46,6 @@
     "zustand": "^5.0.14"
   },
   "devDependencies": {
-    "@opennextjs/cloudflare": "latest",
     "@storybook/addon-a11y": "^9.1.0",
     "@storybook/addon-themes": "^9.1.0",
     "@storybook/react-vite": "^9.1.0",
