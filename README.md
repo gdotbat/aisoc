@@ -241,7 +241,7 @@ For security issues, please do not open a public issue. Use [GitHub's private vu
 
 ## License
 
-[MIT](LICENSE) — © 2024–present AiSOC contributors.
+[MIT](LICENSE) — © 2024–present AiSOC contributors etc.
 
 <div align="center">
 
